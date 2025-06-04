@@ -33,13 +33,13 @@ This assignment demonstrates MongoDB basics using Node.js. It includes:
    git clone https://github.com/Sir-JamesMuritu/week-1-mongodb-fundamentals-assignment-Sir-JamesMuritu.git
    cd week-1-mongodb-fundamentals-assignment-Sir-JamesMuritu
 
-    Install Dependencies
+Install Dependencies
 
-npm install
+    npm install
 
 Insert Sample Data
 
-node insert_books.js
+    node insert_books.js
 
 Run Queries
 
@@ -74,12 +74,6 @@ Run Queries
 📧 Author
 
 Sir James Muritu
-GitHub Profile
-
-
----
-
-Let me know if you want to include aggregation queries or export the results to a file (like JSON or CSV)!
 
 ## Resources
 
